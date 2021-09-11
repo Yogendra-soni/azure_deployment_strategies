@@ -1,6 +1,6 @@
 ###################################################################################
 # Script: To deploy ADF pipeline from one env to another                          #
-#         without using azure devops Deplopyement/release pipeline                #
+#         without using azure devops Deplopyement/release pipeline                # 
 ###################################################################################            
 
 trigger:
